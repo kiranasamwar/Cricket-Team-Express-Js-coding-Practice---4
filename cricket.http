@@ -1,0 +1,4 @@
+get http://localhost:3000/players/
+
+POST http://localhost:3000/players/ 
+Content-Type: application/json
